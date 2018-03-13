@@ -1,3 +1,5 @@
+*3/13/2018 -- Updated to work with xcffib rather than xpyb
+
 An updated (and much faster) version of pytyle that uses xpybutil and is
 compatible with Openbox Multihead.
 
