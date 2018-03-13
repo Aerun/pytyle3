@@ -1,6 +1,6 @@
 import time
 
-import xcb.xproto
+import xcffib.xproto
 
 import xpybutil
 import xpybutil.event as event
